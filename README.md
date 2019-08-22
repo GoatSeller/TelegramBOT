@@ -9,4 +9,6 @@
 git clone https://github.com/GoatSeller/TelegramBOT.git
 cd TelegramBOT/
 yarn
+tsc
+cd bin/
 ```
