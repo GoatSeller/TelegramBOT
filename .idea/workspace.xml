@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="012a8799-b94a-4c29-9f0c-7030e31d1696" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/telegram.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/telegram.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-    </list>
+    <list default="true" id="012a8799-b94a-4c29-9f0c-7030e31d1696" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1566480087324" duration="11000" />
       <workItem from="1566480853798" duration="155000" />
       <workItem from="1566481045793" duration="487000" />
-      <workItem from="1566492245321" duration="1747000" />
+      <workItem from="1566492245321" duration="1786000" />
     </task>
     <servers />
   </component>
