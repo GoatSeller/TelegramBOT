@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="012a8799-b94a-4c29-9f0c-7030e31d1696" name="Default Changelist" comment="" />
+    <list default="true" id="012a8799-b94a-4c29-9f0c-7030e31d1696" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/telegram.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/telegram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebDevelopersBOT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
@@ -30,6 +36,32 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/bin/main.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="BOTTOKEN" value="941016882:AAET-rt_3szRpPrZhW31W6i3J_saXIyNF9A" />
+      </envs>
+      <method v="2">
+        <option name="TypeScript.Before.Run" enabled="true" FAIL_ON_ERROR="true" CONFIG_PATH="$PROJECT_DIR$/tsconfig.json" />
+      </method>
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="bin/main.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="BOTTOKEN" value="941016882:AAET-rt_3szRpPrZhW31W6i3J_saXIyNF9A" />
+      </envs>
+      <method v="2">
+        <option name="TypeScript.Before.Run" enabled="true" FAIL_ON_ERROR="true" CONFIG_PATH="$PROJECT_DIR$/tsconfig.json" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,6 +83,7 @@
       <workItem from="1566480087324" duration="11000" />
       <workItem from="1566480853798" duration="155000" />
       <workItem from="1566481045793" duration="487000" />
+      <workItem from="1566492245321" duration="1747000" />
     </task>
     <servers />
   </component>
