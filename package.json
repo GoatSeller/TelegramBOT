@@ -4,7 +4,7 @@
   "description": "Simple telegram bot written in typescript",
   "main": "index.js",
   "repository": "https://github.com/GoatSeller/TelegramBOT.git",
-  "author": "Renegage <renegage7@gmail.com>",
+  "author": "GoatSeller",
   "license": "MIT",
   "dependencies": {
     "@types/node-telegram-bot-api": "^0.31.0",
