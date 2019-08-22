@@ -11,4 +11,5 @@ cd TelegramBOT/
 yarn
 tsc
 cd bin/
+BOTTOKEN=12345:AABBCCDDEE node main.js ( in the unix terminal )
 ```
